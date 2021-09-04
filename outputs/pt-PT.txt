@@ -1,0 +1,991 @@
+
+
+Id                         : Dateline Standard Time
+DisplayName                : (UTC-12:00) Oeste da Linha Internacional de Data
+StandardName               : Hora padrão da Linha da Data
+DaylightName               : Hora de Verão da Linha da Data
+BaseUtcOffset              : -12:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : UTC-11
+DisplayName                : (UTC-11:00) Hora Universal Coordenada-11
+StandardName               : UTC-11
+DaylightName               : UTC-11
+BaseUtcOffset              : -11:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Hawaiian Standard Time
+DisplayName                : (UTC-10:00) Havai
+StandardName               : Hora padrão do Havai
+DaylightName               : Hora de Verão do Havai
+BaseUtcOffset              : -10:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Aleutian Standard Time
+DisplayName                : (UTC-10:00) Ilhas Aleutas
+StandardName               : Hora Padrão de Aleutas
+DaylightName               : Hora de Verão de Aleutas
+BaseUtcOffset              : -10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Marquesas Standard Time
+DisplayName                : (UTC-09:30) Ilhas Marquesas
+StandardName               : Hora Padrão de Marquesas
+DaylightName               : Hora de Verão de Marquesas
+BaseUtcOffset              : -09:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : Alaskan Standard Time
+DisplayName                : (UTC-09:00) Alasca
+StandardName               : Hora padrão do Alaska
+DaylightName               : Hora de Verão do Alaska
+BaseUtcOffset              : -09:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : UTC-09
+DisplayName                : (UTC-09:00) Hora Universal Coordenada-09
+StandardName               : UTC-09
+DaylightName               : UTC-09
+BaseUtcOffset              : -09:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Pacific Standard Time (Mexico)
+DisplayName                : (UTC-08:00) Baja California
+StandardName               : Hora Padrão Pacífico (México)
+DaylightName               : Hora de Verão Pacífico (México)
+BaseUtcOffset              : -08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : UTC-08
+DisplayName                : (UTC-08:00) Hora Universal Coordenada-08
+StandardName               : UTC-08
+DaylightName               : UTC-08
+BaseUtcOffset              : -08:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Pacific Standard Time
+DisplayName                : (UTC-08:00) Hora do Pacífico (E.U.A. e Canadá)
+StandardName               : Hora padrão do Pacífico
+DaylightName               : Hora de Verão do Pacífico
+BaseUtcOffset              : -08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : US Mountain Standard Time
+DisplayName                : (UTC-07:00) Arizona
+StandardName               : Hora padrão Montanhas E.U.A.
+DaylightName               : Hora Verão Montanhas dos E.U.A.
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Mountain Standard Time (Mexico)
+DisplayName                : (UTC-07:00) Chihuahua, La Paz, Mazatlan
+StandardName               : Hora Padrão Montanhas(México)
+DaylightName               : Hora de Verão Montanhas(México)
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Mountain Standard Time
+DisplayName                : (UTC-07:00) Hora das Regiões Montanhosas (E.U.A. e Canadá)
+StandardName               : Hora padrão das Montanhosas
+DaylightName               : Hora de Verão das Montanhas
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Yukon Standard Time
+DisplayName                : (UTC-07:00) Yukon
+StandardName               : Hora Padrão de Yukon
+DaylightName               : Hora de Verão de Yukon
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central America Standard Time
+DisplayName                : (UTC-06:00) América Central
+StandardName               : Hora padrão da América Central
+DaylightName               : Hora de Verão América Central
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Central Standard Time (Mexico)
+DisplayName                : (UTC-06:00) Guadalajara, Cidade do México, Monterrey
+StandardName               : Hora Padrão Central (México)
+DaylightName               : Hora de Verão Central (México)
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central Standard Time
+DisplayName                : (UTC-06:00) Hora Central (E.U.A. e Canadá)
+StandardName               : Hora padrão central
+DaylightName               : Hora de Verão central
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Easter Island Standard Time
+DisplayName                : (UTC-06:00) Ilha da Páscoa
+StandardName               : Hora Padrão, Ilha da Páscoa
+DaylightName               : Hora de Verão, Ilha da Páscoa
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Canada Central Standard Time
+DisplayName                : (UTC-06:00) Saskatchewan
+StandardName               : Hora padrão do Canadá central
+DaylightName               : Hora de Verão do Canadá central
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : SA Pacific Standard Time
+DisplayName                : (UTC-05:00) Bogotá, Lima, Quito, Rio Branco
+StandardName               : Hora padrão da AS - Pacífico
+DaylightName               : Hora de Verão da AS - Pacífico
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Eastern Standard Time (Mexico)
+DisplayName                : (UTC-05:00) Chetumal
+StandardName               : Hora Padrão do Leste (México)
+DaylightName               : Hora de Verão do Leste (México)
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Haiti Standard Time
+DisplayName                : (UTC-05:00) Haiti
+StandardName               : Hora Padrão, Haiti
+DaylightName               : Hora de Verão, Haiti
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Cuba Standard Time
+DisplayName                : (UTC-05:00) Havana
+StandardName               : Hora Padrão de Cuba
+DaylightName               : Hora de Verão de Cuba
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Eastern Standard Time
+DisplayName                : (UTC-05:00) Hora do Leste (E.U.A. e Canadá)
+StandardName               : Hora padrão do Leste
+DaylightName               : Hora de Verão do Leste
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Turks And Caicos Standard Time
+DisplayName                : (UTC-05:00) Ilhas Turcas e Caicos
+StandardName               : Hora Padrão:Ilhas Turcas/Caicos
+DaylightName               : Hora Verão: Ilhas Turcas/Caicos
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : US Eastern Standard Time
+DisplayName                : (UTC-05:00) Indiana (Leste)
+StandardName               : Hora padrão do Leste dos E.U.A.
+DaylightName               : Hora Verão do Leste dos E.U.A.
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Paraguay Standard Time
+DisplayName                : (UTC-04:00) Assunção
+StandardName               : Hora Padrão do Paraguai
+DaylightName               : Hora de Verão do Paraguai
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Venezuela Standard Time
+DisplayName                : (UTC-04:00) Caracas
+StandardName               : Hora Padrão da Venezuela
+DaylightName               : Hora de Verão da Venezuela
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central Brazilian Standard Time
+DisplayName                : (UTC-04:00) Cuiabá
+StandardName               : Hora Padrão do Brasil Central
+DaylightName               : Hora de Verão do Brasil Central
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : SA Western Standard Time
+DisplayName                : (UTC-04:00) Georgetown, La Paz, Manaus, São João
+StandardName               : Hora Padrão do Oeste da AS
+DaylightName               : Hora de Verão do Oeste da AS
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Atlantic Standard Time
+DisplayName                : (UTC-04:00) Hora do Atlântico (Canadá)
+StandardName               : Hora padrão do Atlântico
+DaylightName               : Hora de Verão do Atlântico
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Pacific SA Standard Time
+DisplayName                : (UTC-04:00) Santiago
+StandardName               : Hora padrão do Pacífico da AS
+DaylightName               : Hora de Verão do Pacífico da AS
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Newfoundland Standard Time
+DisplayName                : (UTC-03:30) Terra Nova
+StandardName               : Hora padrão da Terra Nova
+DaylightName               : Hora de Verão da Terra Nova
+BaseUtcOffset              : -03:30:00
+SupportsDaylightSavingTime : True
+
+Id                         : Tocantins Standard Time
+DisplayName                : (UTC-03:00) Araguaina
+StandardName               : Hora Padrão de Tocantins
+DaylightName               : Hora de Verão de Tocantins
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : E. South America Standard Time
+DisplayName                : (UTC-03:00) Brasília
+StandardName               : Hora padrão América do Sul Or.
+DaylightName               : Hora de Verão América Sul Or.
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : SA Eastern Standard Time
+DisplayName                : (UTC-03:00) Caiena, Fortaleza
+StandardName               : Hora Padrão do Leste da AS
+DaylightName               : Hora de Verão do Leste da AS
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Argentina Standard Time
+DisplayName                : (UTC-03:00) Cidade de Buenos Aires
+StandardName               : Hora Padrão da Argentina
+DaylightName               : Hora de Verão da Argentina
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Greenland Standard Time
+DisplayName                : (UTC-03:00) Gronelândia
+StandardName               : Hora padrão da Gronelândia
+DaylightName               : Hora de Verão da Gronelândia
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Montevideo Standard Time
+DisplayName                : (UTC-03:00) Montevideu
+StandardName               : Hora Padrão de Montevideu
+DaylightName               : Hora de Verão de Montevideu
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Magallanes Standard Time
+DisplayName                : (UTC-03:00) Punta Arenas
+StandardName               : Hora Padrão de Magallanes
+DaylightName               : Hora de Verão de Magallanes
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Bahia Standard Time
+DisplayName                : (UTC-03:00) Salvador
+StandardName               : Hora Padrão da Baía
+DaylightName               : Hora de Verão da Baía
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Saint Pierre Standard Time
+DisplayName                : (UTC-03:00) São Pedro e Miquelão
+StandardName               : Hora Padrão de Saint-Pierre
+DaylightName               : Hora de Verão de Saint-Pierre
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Mid-Atlantic Standard Time
+DisplayName                : (UTC-02:00) Atlântico Central - Antigo
+StandardName               : Hora padrão Atlântico Central
+DaylightName               : Hora de Verão Atlântico Central
+BaseUtcOffset              : -02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : UTC-02
+DisplayName                : (UTC-02:00) Hora Universal Coordenada-02
+StandardName               : UTC-02
+DaylightName               : UTC-02
+BaseUtcOffset              : -02:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Azores Standard Time
+DisplayName                : (UTC-01:00) Açores
+StandardName               : Hora padrão dos Açores
+DaylightName               : Hora de Verão dos Açores
+BaseUtcOffset              : -01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Cape Verde Standard Time
+DisplayName                : (UTC-01:00) Ilhas de Cabo Verde
+StandardName               : Hora Padrão de Cabo Verde
+DaylightName               : Hora de Verão de Cabo Verde
+BaseUtcOffset              : -01:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : UTC
+DisplayName                : (UTC) Hora Universal Coordenada
+StandardName               : Hora Universal Coordenada
+DaylightName               : Hora Universal Coordenada
+BaseUtcOffset              : 00:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : GMT Standard Time
+DisplayName                : (UTC+00:00) Dublin, Edimburgo, Lisboa, Londres
+StandardName               : Hora padrão de GMT
+DaylightName               : Hora de Verão de GMT
+BaseUtcOffset              : 00:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Greenwich Standard Time
+DisplayName                : (UTC+00:00) Monróvia, Reiquiavique
+StandardName               : Hora padrão de Greenwich
+DaylightName               : Hora de Verão de Greenwich
+BaseUtcOffset              : 00:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Sao Tome Standard Time
+DisplayName                : (UTC+00:00) São Tomé
+StandardName               : Hora Padrão de São Tomé
+DaylightName               : Hora de Verão de São Tomé
+BaseUtcOffset              : 00:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Morocco Standard Time
+DisplayName                : (UTC+01:00) Casablanca
+StandardName               : Hora Padrão de Marrocos
+DaylightName               : Hora de Verão de Marrocos
+BaseUtcOffset              : 00:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : W. Europe Standard Time
+DisplayName                : (UTC+01:00) Amesterdão, Berlim, Berna, Roma, Estocolmo, Viena
+StandardName               : Hora padrão da Europa do Oeste
+DaylightName               : Hora de Verão da Europa Oeste
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central Europe Standard Time
+DisplayName                : (UTC+01:00) Belgrado, Bratislava, Budapeste, Liubliana, Praga
+StandardName               : Hora padrão da Europa Central
+DaylightName               : Hora de Verão da Europa Central
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Romance Standard Time
+DisplayName                : (UTC+01:00) Bruxelas, Copenhaga, Madrid, Paris
+StandardName               : Hora padrão de Romance
+DaylightName               : Hora de Verão de Romance
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central European Standard Time
+DisplayName                : (UTC+01:00) Sarajevo, Skopje, Sófia, Varsóvia, Zagreb
+StandardName               : Hora padrão Europa Central
+DaylightName               : Hora de Verão Europa Central
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : W. Central Africa Standard Time
+DisplayName                : (UTC+01:00) África Centro Oeste
+StandardName               : Hora padrão África Centro Oeste
+DaylightName               : Hora Verão África Centro Oeste
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Jordan Standard Time
+DisplayName                : (UTC+02:00) Amã
+StandardName               : Hora Padrão da Jordânia
+DaylightName               : Hora de Verão da Jordânia
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : GTB Standard Time
+DisplayName                : (UTC+02:00) Atenas, Bucareste
+StandardName               : Hora padrão GT
+DaylightName               : Hora de Verão GT
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Middle East Standard Time
+DisplayName                : (UTC+02:00) Beirute
+StandardName               : Hora Padrão do Médio Oriente
+DaylightName               : Hora de Verão do Médio Oriente
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Egypt Standard Time
+DisplayName                : (UTC+02:00) Cairo
+StandardName               : Hora Padrão do Egito
+DaylightName               : Hora de Verão do Egito
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Sudan Standard Time
+DisplayName                : (UTC+02:00) Cartum
+StandardName               : Hora Padrão do Sudão
+DaylightName               : Hora de Verão do Sudão
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : E. Europe Standard Time
+DisplayName                : (UTC+02:00) Chisinau
+StandardName               : Hora padrão da Europa do Leste
+DaylightName               : Hora de Verão da Europa Leste
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Syria Standard Time
+DisplayName                : (UTC+02:00) Damasco
+StandardName               : Hora Padrão da Síria
+DaylightName               : Hora de Verão da Síria
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : West Bank Standard Time
+DisplayName                : (UTC+02:00) Gaza, Hebrom
+StandardName               : Hora Padrão de Gaza/Cisjordânia
+DaylightName               : Hora de Verão Gaza/Cisjordânia
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : South Africa Standard Time
+DisplayName                : (UTC+02:00) Harare, Pretória
+StandardName               : Hora padrão da África do Sul
+DaylightName               : Hora de Verão da África do Sul
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : FLE Standard Time
+DisplayName                : (UTC+02:00) Helsínquia, Kiev, Riga, Sófia, Tallinn, Vilnius
+StandardName               : Hora padrão da Finlândia
+DaylightName               : Hora de Verão da Finlândia
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Israel Standard Time
+DisplayName                : (UTC+02:00) Jerusalém
+StandardName               : Hora padrão de Jerusalém
+DaylightName               : Hora de Verão de Jerusalém
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : South Sudan Standard Time
+DisplayName                : (UTC+02:00) Juba
+StandardName               : Hora Padrão do Sudão do Sul
+DaylightName               : Hora de Verão do Sudão do Sul
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Kaliningrad Standard Time
+DisplayName                : (UTC+02:00) Kaliningrado
+StandardName               : Hora Padrão do FH Rússia 1
+DaylightName               : Hora de Verão do FH Rússia 1
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Libya Standard Time
+DisplayName                : (UTC+02:00) Trípoli
+StandardName               : Hora padrão da Líbia
+DaylightName               : Hora de Verão da Líbia
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Namibia Standard Time
+DisplayName                : (UTC+02:00) Windhoek
+StandardName               : Hora Padrão da Namíbia
+DaylightName               : Hora de Verão da Namíbia
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Arabic Standard Time
+DisplayName                : (UTC+03:00) Bagdade
+StandardName               : Hora padrão Árabe
+DaylightName               : Hora de Verão Árabe
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Turkey Standard Time
+DisplayName                : (UTC+03:00) Istambul
+StandardName               : Hora padrão da Turquia
+DaylightName               : Hora de Verão da Turquia
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Arab Standard Time
+DisplayName                : (UTC+03:00) Kuwait, Riade
+StandardName               : Hora padrão Arábia Saudita
+DaylightName               : Hora de Verão Arábia Saudita
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Belarus Standard Time
+DisplayName                : (UTC+03:00) Minsk
+StandardName               : Hora Padrão da Bielorrússia
+DaylightName               : Hora de Verão da Bielorrússia
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Russian Standard Time
+DisplayName                : (UTC+03:00) Moscovo, S. Petersburgo
+StandardName               : Hora Padrão do FH Rússia 2
+DaylightName               : Hora de Verão do FH Rússia 2
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : E. Africa Standard Time
+DisplayName                : (UTC+03:00) Nairobi
+StandardName               : Hora padrão África Oriental
+DaylightName               : Hora de Verão África Oriental
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Iran Standard Time
+DisplayName                : (UTC+03:30) Teerão
+StandardName               : Hora padrão do Irão
+DaylightName               : Hora de Verão do Irão
+BaseUtcOffset              : 03:30:00
+SupportsDaylightSavingTime : True
+
+Id                         : Arabian Standard Time
+DisplayName                : (UTC+04:00) Abu Dhabi, Muscat
+StandardName               : Hora padrão de Abu Dhabi
+DaylightName               : Hora de Verão de Abu Dhabi
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Astrakhan Standard Time
+DisplayName                : (UTC+04:00) Astrakhan, Ulianovsk
+StandardName               : Hora Padrão de Astrakhan
+DaylightName               : Hora de Verão de Astrakhan
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Azerbaijan Standard Time
+DisplayName                : (UTC+04:00) Baku
+StandardName               : Hora Padrão do Azerbaijão
+DaylightName               : Hora de Verão do Azerbaijão
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Russia Time Zone 3
+DisplayName                : (UTC+04:00) Izhevsk, Samara
+StandardName               : Hora Padrão do FH Rússia 3
+DaylightName               : Hora de Verão do FH Rússia 3
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Mauritius Standard Time
+DisplayName                : (UTC+04:00) Port Louis
+StandardName               : Hora Padrão da Maurícia
+DaylightName               : Hora de Verão da Maurícia
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Saratov Standard Time
+DisplayName                : (UTC+04:00) Saratov
+StandardName               : Hora Padrão de Saratov
+DaylightName               : Hora de Verão de Saratov
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Georgian Standard Time
+DisplayName                : (UTC+04:00) Tbilisi
+StandardName               : Hora Padrão da Geórgia
+DaylightName               : Hora de Verão da Geórgia
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Volgograd Standard Time
+DisplayName                : (UTC+04:00) Volgogrado
+StandardName               : Hora Padrão de Volgogrado
+DaylightName               : Hora de Verão de Volgogrado
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Caucasus Standard Time
+DisplayName                : (UTC+04:00) Yerevan
+StandardName               : Hora padrão do Cáucaso
+DaylightName               : Hora de Verão do Cáucaso
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Afghanistan Standard Time
+DisplayName                : (UTC+04:30) Cabul
+StandardName               : Hora padrão do Afeganistão
+DaylightName               : Hora de Verão do Afeganistão
+BaseUtcOffset              : 04:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : West Asia Standard Time
+DisplayName                : (UTC+05:00) Achgabat, Tashkent
+StandardName               : Hora padrão da Ásia Oeste
+DaylightName               : Hora de Verão da Ásia Oeste
+BaseUtcOffset              : 05:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Ekaterinburg Standard Time
+DisplayName                : (UTC+05:00) Ecaterimburgo
+StandardName               : Hora Padrão do FH Rússia 4
+DaylightName               : Hora de Verão do FH Rússia 4
+BaseUtcOffset              : 05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Pakistan Standard Time
+DisplayName                : (UTC+05:00) Islamabade, Carachi
+StandardName               : Hora Padrão do Paquistão
+DaylightName               : Hora de Verão do Paquistão
+BaseUtcOffset              : 05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Qyzylorda Standard Time
+DisplayName                : (UTC+05:00) Qyzylorda
+StandardName               : Hora Padrão de Qyzylorda
+DaylightName               : Hora de Verão de Qyzylorda
+BaseUtcOffset              : 05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : India Standard Time
+DisplayName                : (UTC+05:30) Chennai, Kolkata (Calcutá), Mumbai, Nova Deli
+StandardName               : Hora padrão da Índia
+DaylightName               : Hora de Verão da Índia
+BaseUtcOffset              : 05:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : Sri Lanka Standard Time
+DisplayName                : (UTC+05:30) Sri Jayawardenepura
+StandardName               : Hora padrão de Sri Lanka
+DaylightName               : Hora de Verão de Sri Lanka
+BaseUtcOffset              : 05:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : Nepal Standard Time
+DisplayName                : (UTC+05:45) Kathmandu
+StandardName               : Hora padrão do Nepal
+DaylightName               : Hora de Verão do Nepal
+BaseUtcOffset              : 05:45:00
+SupportsDaylightSavingTime : False
+
+Id                         : Central Asia Standard Time
+DisplayName                : (UTC+06:00) Astana
+StandardName               : Hora padrão da Ásia Central
+DaylightName               : Hora de Verão da Ásia Central
+BaseUtcOffset              : 06:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Bangladesh Standard Time
+DisplayName                : (UTC+06:00) Daca
+StandardName               : Hora Padrão de Bangladeche
+DaylightName               : Hora de Verão de Bangladeche
+BaseUtcOffset              : 06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Omsk Standard Time
+DisplayName                : (UTC+06:00) Omsk
+StandardName               : Hora Padrão de Omsk
+DaylightName               : Hora de Verão de Omsk
+BaseUtcOffset              : 06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Myanmar Standard Time
+DisplayName                : (UTC+06:30) Yangon (Rangoon)
+StandardName               : Hora padrão de Myanmar
+DaylightName               : Hora de Verão de Myanmar
+BaseUtcOffset              : 06:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : SE Asia Standard Time
+DisplayName                : (UTC+07:00) Banguecoque, Hanói, Jacarta
+StandardName               : Hora padrão Sudeste Asiático
+DaylightName               : Hora de Verão Sudeste Asiático
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Altai Standard Time
+DisplayName                : (UTC+07:00) Barnaul, Gorno-Altaysk
+StandardName               : Hora Padrão de Altai
+DaylightName               : Hora de Verão de Altai
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : W. Mongolia Standard Time
+DisplayName                : (UTC+07:00) Hovd
+StandardName               : Hora Padrão: Mongólia Ocidental
+DaylightName               : Hora Verão: Mongólia Ocidental
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : North Asia Standard Time
+DisplayName                : (UTC+07:00) Krasnoyarsk
+StandardName               : Hora Padrão do FH Rússia 6
+DaylightName               : Hora de Verão do FH Rússia 6
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : N. Central Asia Standard Time
+DisplayName                : (UTC+07:00) Novosibirsk
+StandardName               : Hora Padrão de Novosibirsk
+DaylightName               : Hora de Verão de Novosibirsk
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Tomsk Standard Time
+DisplayName                : (UTC+07:00) Tomsk
+StandardName               : Hora Padrão de Tomsk
+DaylightName               : Hora de Verão de Tomsk
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : North Asia East Standard Time
+DisplayName                : (UTC+08:00) Irkutsk
+StandardName               : Hora Padrão do FH Rússia 7
+DaylightName               : Hora de Verão do FH Rússia 7
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Singapore Standard Time
+DisplayName                : (UTC+08:00) Kuala Lumpur, Singapura
+StandardName               : Hora padrão península Malásia
+DaylightName               : Hora Verão da península Malásia
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : China Standard Time
+DisplayName                : (UTC+08:00) Pequim, Chongqing, RAE de Hong Kong, Urumqi
+StandardName               : Hora padrão da China
+DaylightName               : Hora de Verão da China
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : W. Australia Standard Time
+DisplayName                : (UTC+08:00) Perth
+StandardName               : Hora padrão Austrália Ocidental
+DaylightName               : Hora Verão Austrália Ocidental
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Taipei Standard Time
+DisplayName                : (UTC+08:00) Taipé
+StandardName               : Hora padrão de Taipei
+DaylightName               : Hora de Verão de Taipei
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Ulaanbaatar Standard Time
+DisplayName                : (UTC+08:00) Ulan Bator
+StandardName               : Hora Padrão de Ulan Bator
+DaylightName               : Hora de Verão de Ulan Bator
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Aus Central W. Standard Time
+DisplayName                : (UTC+08:45) Eucla
+StandardName               : Hora Padrão:Austrália Cent/Ocid
+DaylightName               : Hora Verão: Austrália Cent/Ocid
+BaseUtcOffset              : 08:45:00
+SupportsDaylightSavingTime : False
+
+Id                         : Transbaikal Standard Time
+DisplayName                : (UTC+09:00) Chita
+StandardName               : Hora Padrão de Transbaikal
+DaylightName               : Hora de Verão de Transbaikal
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Tokyo Standard Time
+DisplayName                : (UTC+09:00) Osaca, Sapporo, Tóquio
+StandardName               : Hora padrão de Tóquio
+DaylightName               : Hora de Verão de Tóquio
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : North Korea Standard Time
+DisplayName                : (UTC+09:00) Pyongyang
+StandardName               : Hora Padrão - Coreia do Norte
+DaylightName               : Hora de Verão - Coreia do Norte
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Korea Standard Time
+DisplayName                : (UTC+09:00) Seul
+StandardName               : Hora padrão da Coreia
+DaylightName               : Hora de Verão da Coreia
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Yakutsk Standard Time
+DisplayName                : (UTC+09:00) Yakutsk
+StandardName               : Hora Padrão do FH Rússia 8
+DaylightName               : Hora de Verão do FH Rússia 8
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Cen. Australia Standard Time
+DisplayName                : (UTC+09:30) Adelaide
+StandardName               : Hora padrão da AUS central
+DaylightName               : Hora de Verão da AUS central
+BaseUtcOffset              : 09:30:00
+SupportsDaylightSavingTime : True
+
+Id                         : AUS Central Standard Time
+DisplayName                : (UTC+09:30) Darwin
+StandardName               : Hora padrão Austrália Central
+DaylightName               : Hora de Verão Austrália Central
+BaseUtcOffset              : 09:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : E. Australia Standard Time
+DisplayName                : (UTC+10:00) Brisbane
+StandardName               : Hora padrão Austrália Oriental
+DaylightName               : Hora de Verão da Austrália Or.
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : AUS Eastern Standard Time
+DisplayName                : (UTC+10:00) Camberra, Melbourne, Sidnei
+StandardName               : Hora padrão da AUS de Leste
+DaylightName               : Hora de Verão da AUS de Leste
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : West Pacific Standard Time
+DisplayName                : (UTC+10:00) Guam, Port Moresby
+StandardName               : Hora padrão do Pacífico Oeste
+DaylightName               : Hora de Verão do Pacífico Oeste
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Tasmania Standard Time
+DisplayName                : (UTC+10:00) Hobart
+StandardName               : Hora padrão da Tasmânia
+DaylightName               : Hora de Verão da Tasmânia
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Vladivostok Standard Time
+DisplayName                : (UTC+10:00) Vladivostoque
+StandardName               : Hora Padrão do FH Rússia 9
+DaylightName               : Hora de Verão do FH Rússia 9
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Lord Howe Standard Time
+DisplayName                : (UTC+10:30) Ilha de Lord Howe
+StandardName               : Hora Padrão de Lord Howe
+DaylightName               : Hora de Verão de Lord Howe
+BaseUtcOffset              : 10:30:00
+SupportsDaylightSavingTime : True
+
+Id                         : Russia Time Zone 10
+DisplayName                : (UTC+11:00) Chokurdakh
+StandardName               : Hora Padrão do FH Rússia 10
+DaylightName               : Hora de Verão do FH Rússia 10
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Norfolk Standard Time
+DisplayName                : (UTC+11:00) Ilha Norfolk
+StandardName               : Hora Padrão de Norfolk
+DaylightName               : Hora de Verão de Norfolk
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Bougainville Standard Time
+DisplayName                : (UTC+11:00) Ilha de Bougainville
+StandardName               : Hora Padrão de Bougainville
+DaylightName               : Hora de Verão de Bougainville
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central Pacific Standard Time
+DisplayName                : (UTC+11:00) Ilhas de Salomão, Nova Caledónia
+StandardName               : Hora padrão do Pacífico Central
+DaylightName               : Hora de Verão Pacífico Central
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Magadan Standard Time
+DisplayName                : (UTC+11:00) Magadã
+StandardName               : Hora padrão de Magadã
+DaylightName               : Hora de Verão de Magadã
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Sakhalin Standard Time
+DisplayName                : (UTC+11:00) Sakhalin
+StandardName               : Hora Padrão de Sakhalin
+DaylightName               : Hora de Verão de Sakhalin
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Russia Time Zone 11
+DisplayName                : (UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky
+StandardName               : Hora Padrão do FH Rússia 11
+DaylightName               : Hora de Verão do FH Rússia 11
+BaseUtcOffset              : 12:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : New Zealand Standard Time
+DisplayName                : (UTC+12:00) Auckland, Wellington
+StandardName               : Hora padrão da Nova Zelândia
+DaylightName               : Hora de Verão da Nova Zelândia
+BaseUtcOffset              : 12:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Fiji Standard Time
+DisplayName                : (UTC+12:00) Fiji
+StandardName               : Hora padrão de Fiji
+DaylightName               : Hora de Verão de Fiji
+BaseUtcOffset              : 12:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : UTC+12
+DisplayName                : (UTC+12:00) Hora Universal Coordenada+12
+StandardName               : UTC+12
+DaylightName               : UTC+12
+BaseUtcOffset              : 12:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Kamchatka Standard Time
+DisplayName                : (UTC+12:00) Petropavlovsk-Kamchatsky - Antigo
+StandardName               : Hora Padrão de Kamchatka
+DaylightName               : Hora de Verão de Kamchatka
+BaseUtcOffset              : 12:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Chatham Islands Standard Time
+DisplayName                : (UTC+12:45) Ilhas Chatham
+StandardName               : Hora Padrão das Ilhas Chatham
+DaylightName               : Hora de Verão das Ilhas Chatham
+BaseUtcOffset              : 12:45:00
+SupportsDaylightSavingTime : True
+
+Id                         : UTC+13
+DisplayName                : (UTC+13:00) Hora Universal Coordenada+13
+StandardName               : UTC+13
+DaylightName               : UTC+13
+BaseUtcOffset              : 13:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Tonga Standard Time
+DisplayName                : (UTC+13:00) Nuku'alofa
+StandardName               : Hora padrão em Tonga
+DaylightName               : Hora de Verão em Tonga
+BaseUtcOffset              : 13:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Samoa Standard Time
+DisplayName                : (UTC+13:00) Samoa
+StandardName               : Hora padrão de Samoa
+DaylightName               : Hora de Verão de Samoa
+BaseUtcOffset              : 13:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Line Islands Standard Time
+DisplayName                : (UTC+14:00) Ilha de Kiritimati
+StandardName               : Hora Padrão Ilhas Esp. Equat.
+DaylightName               : Hora Verão Ilhas Esp. Equat.
+BaseUtcOffset              : 14:00:00
+SupportsDaylightSavingTime : False
+
+
+

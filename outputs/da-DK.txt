@@ -29,7 +29,7 @@ BaseUtcOffset              : -10:00:00
 SupportsDaylightSavingTime : False
 
 Id                         : Marquesas Standard Time
-DisplayName                : (UTC-09:30) Marquesas-oerne
+DisplayName                : (UTC-09:30) Marquesas-øerne
 StandardName               : Marquesas, normaltid
 DaylightName               : Marquesas, sommertid
 BaseUtcOffset              : -09:30:00
@@ -120,9 +120,9 @@ BaseUtcOffset              : -06:00:00
 SupportsDaylightSavingTime : False
 
 Id                         : Easter Island Standard Time
-DisplayName                : (UTC-06:00) P�skeoen
-StandardName               : P�skeoen, normaltid
-DaylightName               : P�skeoen, sommertid
+DisplayName                : (UTC-06:00) Påskeøen
+StandardName               : Påskeøen, normaltid
+DaylightName               : Påskeøen, sommertid
 BaseUtcOffset              : -06:00:00
 SupportsDaylightSavingTime : True
 
@@ -169,16 +169,16 @@ BaseUtcOffset              : -05:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : US Eastern Standard Time
-DisplayName                : (UTC-05:00) Indiana (Ost)
-StandardName               : USA (Ost), normaltid
-DaylightName               : USA (Ost), sommertid
+DisplayName                : (UTC-05:00) Indiana (Øst)
+StandardName               : USA (Øst), normaltid
+DaylightName               : USA (Øst), sommertid
 BaseUtcOffset              : -05:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : Turks And Caicos Standard Time
-DisplayName                : (UTC-05:00) Turks- og Caicosoerne
-StandardName               : Turks- og Caicosoerne normaltid
-DaylightName               : Turks- og Caicosoerne sommertid
+DisplayName                : (UTC-05:00) Turks- og Caicosøerne
+StandardName               : Turks- og Caicosøerne normaltid
+DaylightName               : Turks- og Caicosøerne sommertid
 BaseUtcOffset              : -05:00:00
 SupportsDaylightSavingTime : True
 
@@ -232,7 +232,7 @@ BaseUtcOffset              : -03:30:00
 SupportsDaylightSavingTime : True
 
 Id                         : Tocantins Standard Time
-DisplayName                : (UTC-03:00) Aragua�na
+DisplayName                : (UTC-03:00) Araguaína
 StandardName               : Tocantins, normaltid
 DaylightName               : Tocantins, sommertid
 BaseUtcOffset              : -03:00:00
@@ -240,8 +240,8 @@ SupportsDaylightSavingTime : True
 
 Id                         : E. South America Standard Time
 DisplayName                : (UTC-03:00) Brasilien
-StandardName               : Sydamerika (ost), normaltid
-DaylightName               : Sydamerika (ost), sommertid
+StandardName               : Sydamerika (øst), normaltid
+DaylightName               : Sydamerika (øst), sommertid
 BaseUtcOffset              : -03:00:00
 SupportsDaylightSavingTime : True
 
@@ -254,15 +254,15 @@ SupportsDaylightSavingTime : True
 
 Id                         : SA Eastern Standard Time
 DisplayName                : (UTC-03:00) Cayenne, Fortaleza
-StandardName               : O. Sydamerika, normaltid
-DaylightName               : O. Sydamerika, sommertid
+StandardName               : Ø. Sydamerika, normaltid
+DaylightName               : Ø. Sydamerika, sommertid
 BaseUtcOffset              : -03:00:00
 SupportsDaylightSavingTime : False
 
 Id                         : Greenland Standard Time
-DisplayName                : (UTC-03:00) Gronland
-StandardName               : Gronland, normaltid
-DaylightName               : Gronland, sommertid
+DisplayName                : (UTC-03:00) Grønland
+StandardName               : Grønland, normaltid
+DaylightName               : Grønland, sommertid
 BaseUtcOffset              : -03:00:00
 SupportsDaylightSavingTime : True
 
@@ -302,7 +302,7 @@ BaseUtcOffset              : -02:00:00
 SupportsDaylightSavingTime : False
 
 Id                         : Mid-Atlantic Standard Time
-DisplayName                : (UTC-02:00) Mid-Atlantic - gammel
+DisplayName                : (UTC-02:00) Mid-Atlantic – gammel
 StandardName               : Mid-Atlantic, normaltid
 DaylightName               : Mid-Atlantic, sommertid
 BaseUtcOffset              : -02:00:00
@@ -345,8 +345,8 @@ SupportsDaylightSavingTime : False
 
 Id                         : Sao Tome Standard Time
 DisplayName                : (UTC+00:00) Sao Tome
-StandardName               : Sao Tom�, normaltid
-DaylightName               : Sao Tom�, sommertid
+StandardName               : São Tomé, normaltid
+DaylightName               : São Tomé, sommertid
 BaseUtcOffset              : 00:00:00
 SupportsDaylightSavingTime : True
 
@@ -372,7 +372,7 @@ BaseUtcOffset              : 01:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : Romance Standard Time
-DisplayName                : (UTC+01:00) Kobenhavn, Stockholm, Oslo, Madrid, Paris
+DisplayName                : (UTC+01:00) København, Stockholm, Oslo, Madrid, Paris
 StandardName               : Rom, normaltid
 DaylightName               : Rom, sommertid
 BaseUtcOffset              : 01:00:00
@@ -408,15 +408,15 @@ SupportsDaylightSavingTime : True
 
 Id                         : Middle East Standard Time
 DisplayName                : (UTC+02:00) Beirut
-StandardName               : Mellemosten, normaltid
-DaylightName               : Mellemosten, sommertid
+StandardName               : Mellemøsten, normaltid
+DaylightName               : Mellemøsten, sommertid
 BaseUtcOffset              : 02:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : E. Europe Standard Time
 DisplayName                : (UTC+02:00) Chisinau
-StandardName               : Osteuropa, normaltid
-DaylightName               : Osteuropa, sommertid
+StandardName               : Østeuropa, normaltid
+DaylightName               : Østeuropa, sommertid
 BaseUtcOffset              : 02:00:00
 SupportsDaylightSavingTime : True
 
@@ -534,8 +534,8 @@ SupportsDaylightSavingTime : True
 
 Id                         : E. Africa Standard Time
 DisplayName                : (UTC+03:00) Nairobi
-StandardName               : Ostafrika, normaltid
-DaylightName               : Ostafrika, sommertid
+StandardName               : Østafrika, normaltid
+DaylightName               : Østafrika, sommertid
 BaseUtcOffset              : 03:00:00
 SupportsDaylightSavingTime : False
 
@@ -695,8 +695,8 @@ SupportsDaylightSavingTime : False
 
 Id                         : SE Asia Standard Time
 DisplayName                : (UTC+07:00) Bangkok, Hanoi, Djakarta
-StandardName               : Sydostasien, normaltid
-DaylightName               : Sydostasien, sommertid
+StandardName               : Sydøstasien, normaltid
+DaylightName               : Sydøstasien, sommertid
 BaseUtcOffset              : 07:00:00
 SupportsDaylightSavingTime : False
 
@@ -736,7 +736,7 @@ BaseUtcOffset              : 07:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : China Standard Time
-DisplayName                : (UTC+08:00) Beijing, Chongjin, Hongkong, �r�mqi
+DisplayName                : (UTC+08:00) Beijing, Chongjin, Hongkong, Ürümqi
 StandardName               : Kina, normaltid
 DaylightName               : Kina, sommertid
 BaseUtcOffset              : 08:00:00
@@ -751,8 +751,8 @@ SupportsDaylightSavingTime : True
 
 Id                         : Singapore Standard Time
 DisplayName                : (UTC+08:00) Kuala Lumpur, Singapore
-StandardName               : Halvoen Malaysia, normaltid
-DaylightName               : Halvoen Malaysia, sommertid
+StandardName               : Halvøen Malaysia, normaltid
+DaylightName               : Halvøen Malaysia, sommertid
 BaseUtcOffset              : 08:00:00
 SupportsDaylightSavingTime : False
 
@@ -835,15 +835,15 @@ SupportsDaylightSavingTime : False
 
 Id                         : E. Australia Standard Time
 DisplayName                : (UTC+10:00) Brisbane
-StandardName               : Ostaustralien, normaltid
-DaylightName               : Ostaustralien, sommertid
+StandardName               : Østaustralien, normaltid
+DaylightName               : Østaustralien, sommertid
 BaseUtcOffset              : 10:00:00
 SupportsDaylightSavingTime : False
 
 Id                         : AUS Eastern Standard Time
 DisplayName                : (UTC+10:00) Canberra, Melbourne, Sydney
-StandardName               : Australien (ost), normaltid
-DaylightName               : Australien (ost), sommertid
+StandardName               : Australien (øst), normaltid
+DaylightName               : Australien (øst), sommertid
 BaseUtcOffset              : 10:00:00
 SupportsDaylightSavingTime : True
 
@@ -911,7 +911,7 @@ BaseUtcOffset              : 11:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : Central Pacific Standard Time
-DisplayName                : (UTC+11:00) Salomonoerne, Ny Kaledonien
+DisplayName                : (UTC+11:00) Salomonøerne, Ny Kaledonien
 StandardName               : Central Pacific, normaltid
 DaylightName               : Central Pacific, sommertid
 BaseUtcOffset              : 11:00:00
@@ -946,16 +946,16 @@ BaseUtcOffset              : 12:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : Kamchatka Standard Time
-DisplayName                : (UTC+12:00) Petropavlovsk-Kamchatsky - For�ldet
+DisplayName                : (UTC+12:00) Petropavlovsk-Kamchatsky - Forældet
 StandardName               : Kamchatka, normaltid
 DaylightName               : Kamchatka, sommertid
 BaseUtcOffset              : 12:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : Chatham Islands Standard Time
-DisplayName                : (UTC+12:45) Chatham-oerne
-StandardName               : Chatham-oerne, normaltid
-DaylightName               : Chatham-oerne, sommertid
+DisplayName                : (UTC+12:45) Chatham-øerne
+StandardName               : Chatham-øerne, normaltid
+DaylightName               : Chatham-øerne, sommertid
 BaseUtcOffset              : 12:45:00
 SupportsDaylightSavingTime : True
 
@@ -982,8 +982,8 @@ SupportsDaylightSavingTime : True
 
 Id                         : Line Islands Standard Time
 DisplayName                : (UTC+14:00) Kiritimati Island
-StandardName               : Lineoerne, normaltid
-DaylightName               : Lineoerne, sommertid
+StandardName               : Lineøerne, normaltid
+DaylightName               : Lineøerne, sommertid
 BaseUtcOffset              : 14:00:00
 SupportsDaylightSavingTime : False
 

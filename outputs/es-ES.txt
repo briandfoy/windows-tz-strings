@@ -905,7 +905,7 @@ SupportsDaylightSavingTime : False
 
 Id                         : Magadan Standard Time
 DisplayName                : (UTC+11:00) Magadán
-StandardName               : Hora estándar de Magadán
+StandardName               : Hora estándar de Magadán 
 DaylightName               : Hora de verano de Magadán
 BaseUtcOffset              : 11:00:00
 SupportsDaylightSavingTime : True

@@ -134,9 +134,9 @@ BaseUtcOffset              : -06:00:00
 SupportsDaylightSavingTime : False
 
 Id                         : SA Pacific Standard Time
-DisplayName                : (UTC-05:00) Bogot†, Lima, Quito, Rio Branco
-StandardName               : Westl. SÅdamerika Normalzeit
-DaylightName               : Westl. SÅdamerika Sommerzeit
+DisplayName                : (UTC-05:00) Bogot√°, Lima, Quito, Rio Branco
+StandardName               : Westl. S√ºdamerika Normalzeit
+DaylightName               : Westl. S√ºdamerika Sommerzeit
 BaseUtcOffset              : -05:00:00
 SupportsDaylightSavingTime : False
 
@@ -212,8 +212,8 @@ SupportsDaylightSavingTime : True
 
 Id                         : SA Western Standard Time
 DisplayName                : (UTC-04:00) Georgetown, La Paz, Manaus, San Juan
-StandardName               : Mittl. SÅdamerika Normalzeit
-DaylightName               : Mittl. SÅdamerika Sommerzeit
+StandardName               : Mittl. S√ºdamerika Normalzeit
+DaylightName               : Mittl. S√ºdamerika Sommerzeit
 BaseUtcOffset              : -04:00:00
 SupportsDaylightSavingTime : False
 
@@ -232,7 +232,7 @@ BaseUtcOffset              : -03:30:00
 SupportsDaylightSavingTime : True
 
 Id                         : Tocantins Standard Time
-DisplayName                : (UTC-03:00) Aragua°na
+DisplayName                : (UTC-03:00) Aragua√≠na
 StandardName               : Tocantins Normalzeit
 DaylightName               : Tocantins Sommerzeit
 BaseUtcOffset              : -03:00:00
@@ -240,8 +240,8 @@ SupportsDaylightSavingTime : True
 
 Id                         : E. South America Standard Time
 DisplayName                : (UTC-03:00) Brasilia
-StandardName               : ôstl. SÅdamerika Normalzeit
-DaylightName               : ôstl. SÅdamerika Sommerzeit
+StandardName               : √ñstl. S√ºdamerika Normalzeit
+DaylightName               : √ñstl. S√ºdamerika Sommerzeit
 BaseUtcOffset              : -03:00:00
 SupportsDaylightSavingTime : True
 
@@ -254,15 +254,15 @@ SupportsDaylightSavingTime : True
 
 Id                         : SA Eastern Standard Time
 DisplayName                : (UTC-03:00) Cayenne, Fortaleza
-StandardName               : ôstl. SÅdamerika Normalzeit  
-DaylightName               : ôstl. SÅdamerika Sommerzeit 
+StandardName               : √ñstl. S√ºdamerika Normalzeit  
+DaylightName               : √ñstl. S√ºdamerika Sommerzeit 
 BaseUtcOffset              : -03:00:00
 SupportsDaylightSavingTime : False
 
 Id                         : Greenland Standard Time
-DisplayName                : (UTC-03:00) Grînland
-StandardName               : Grînland Normalzeit
-DaylightName               : Grînland Sommerzeit
+DisplayName                : (UTC-03:00) Gr√∂nland
+StandardName               : Gr√∂nland Normalzeit
+DaylightName               : Gr√∂nland Sommerzeit
 BaseUtcOffset              : -03:00:00
 SupportsDaylightSavingTime : True
 
@@ -331,8 +331,8 @@ SupportsDaylightSavingTime : False
 
 Id                         : GMT Standard Time
 DisplayName                : (UTC+00:00) Dublin, Edinburgh, Lissabon, London
-StandardName               : WesteuropÑische Zeit
-DaylightName               : WesteuropÑische Sommerzeit
+StandardName               : Westeurop√§ische Zeit
+DaylightName               : Westeurop√§ische Sommerzeit
 BaseUtcOffset              : 00:00:00
 SupportsDaylightSavingTime : True
 
@@ -344,7 +344,7 @@ BaseUtcOffset              : 00:00:00
 SupportsDaylightSavingTime : False
 
 Id                         : Sao Tome Standard Time
-DisplayName                : (UTC+00:00) Sao TomÇ
+DisplayName                : (UTC+00:00) S√£o Tom√©
 StandardName               : Sao Tome Normalzeit
 DaylightName               : Sao Tome Sommerzeit
 BaseUtcOffset              : 00:00:00
@@ -359,30 +359,30 @@ SupportsDaylightSavingTime : True
 
 Id                         : W. Europe Standard Time
 DisplayName                : (UTC+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien
-StandardName               : MitteleuropÑische Zeit
-DaylightName               : MitteleuropÑische Sommerzeit
+StandardName               : Mitteleurop√§ische Zeit
+DaylightName               : Mitteleurop√§ische Sommerzeit
 BaseUtcOffset              : 01:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : Central Europe Standard Time
 DisplayName                : (UTC+01:00) Belgrad, Bratislava (Pressburg), Budapest, 
                              Ljubljana, Prag
-StandardName               : MitteleuropÑische Zeit 
-DaylightName               : MitteleuropÑische Sommerzeit 
+StandardName               : Mitteleurop√§ische Zeit 
+DaylightName               : Mitteleurop√§ische Sommerzeit 
 BaseUtcOffset              : 01:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : Romance Standard Time
-DisplayName                : (UTC+01:00) BrÅssel, Kopenhagen, Madrid, Paris
-StandardName               : MitteleuropÑische Zeit    
-DaylightName               : MitteleuropÑische Sommerzeit   
+DisplayName                : (UTC+01:00) Br√ºssel, Kopenhagen, Madrid, Paris
+StandardName               : Mitteleurop√§ische Zeit    
+DaylightName               : Mitteleurop√§ische Sommerzeit   
 BaseUtcOffset              : 01:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : Central European Standard Time
 DisplayName                : (UTC+01:00) Sarajevo, Skopje, Warschau, Zagreb
-StandardName               : MitteleuropÑische Zeit  
-DaylightName               : MitteleuropÑische Sommerzeit  
+StandardName               : Mitteleurop√§ische Zeit  
+DaylightName               : Mitteleurop√§ische Sommerzeit  
 BaseUtcOffset              : 01:00:00
 SupportsDaylightSavingTime : True
 
@@ -402,8 +402,8 @@ SupportsDaylightSavingTime : True
 
 Id                         : GTB Standard Time
 DisplayName                : (UTC+02:00) Athen, Bukarest
-StandardName               : OsteuropÑische Zeit
-DaylightName               : OsteuropÑische Sommerzeit
+StandardName               : Osteurop√§ische Zeit
+DaylightName               : Osteurop√§ische Sommerzeit
 BaseUtcOffset              : 02:00:00
 SupportsDaylightSavingTime : True
 
@@ -416,8 +416,8 @@ SupportsDaylightSavingTime : True
 
 Id                         : E. Europe Standard Time
 DisplayName                : (UTC+02:00) Chisinau
-StandardName               : OsteuropÑische Zeit 
-DaylightName               : OsteuropÑische Sommerzeit 
+StandardName               : Osteurop√§ische Zeit 
+DaylightName               : Osteurop√§ische Sommerzeit 
 BaseUtcOffset              : 02:00:00
 SupportsDaylightSavingTime : True
 
@@ -437,15 +437,15 @@ SupportsDaylightSavingTime : True
 
 Id                         : South Africa Standard Time
 DisplayName                : (UTC+02:00) Harare, Pretoria
-StandardName               : SÅdafrika Normalzeit
-DaylightName               : SÅdafrika Sommerzeit
+StandardName               : S√ºdafrika Normalzeit
+DaylightName               : S√ºdafrika Sommerzeit
 BaseUtcOffset              : 02:00:00
 SupportsDaylightSavingTime : False
 
 Id                         : FLE Standard Time
 DisplayName                : (UTC+02:00) Helsinki, Kiew, Riga, Sofia, Tallinn, Wilna
-StandardName               : OsteuropÑische Zeit  
-DaylightName               : OsteuropÑische Sommerzeit  
+StandardName               : Osteurop√§ische Zeit  
+DaylightName               : Osteurop√§ische Sommerzeit  
 BaseUtcOffset              : 02:00:00
 SupportsDaylightSavingTime : True
 
@@ -458,15 +458,15 @@ SupportsDaylightSavingTime : True
 
 Id                         : South Sudan Standard Time
 DisplayName                : (UTC+02:00) Juba
-StandardName               : SÅdsudan Normalzeit
-DaylightName               : SÅdsudan Sommerzeit
+StandardName               : S√ºdsudan Normalzeit
+DaylightName               : S√ºdsudan Sommerzeit
 BaseUtcOffset              : 02:00:00
 SupportsDaylightSavingTime : True
 
 Id                         : Egypt Standard Time
 DisplayName                : (UTC+02:00) Kairo
-StandardName               : égypten Normalzeit
-DaylightName               : égypten Sommerzeit
+StandardName               : √Ñgypten Normalzeit
+DaylightName               : √Ñgypten Sommerzeit
 BaseUtcOffset              : 02:00:00
 SupportsDaylightSavingTime : True
 
@@ -507,8 +507,8 @@ SupportsDaylightSavingTime : True
 
 Id                         : Turkey Standard Time
 DisplayName                : (UTC+03:00) Istanbul
-StandardName               : TÅrkei Normalzeit
-DaylightName               : TÅrkei Sommerzeit
+StandardName               : T√ºrkei Normalzeit
+DaylightName               : T√ºrkei Sommerzeit
 BaseUtcOffset              : 03:00:00
 SupportsDaylightSavingTime : True
 
@@ -696,8 +696,8 @@ SupportsDaylightSavingTime : False
 
 Id                         : SE Asia Standard Time
 DisplayName                : (UTC+07:00) Bangkok, Hanoi, Jakarta
-StandardName               : SÅdostasiatische Normalzeit
-DaylightName               : SÅdostasiatische Sommerzeit
+StandardName               : S√ºdostasiatische Normalzeit
+DaylightName               : S√ºdostasiatische Sommerzeit
 BaseUtcOffset              : 07:00:00
 SupportsDaylightSavingTime : False
 
@@ -807,7 +807,7 @@ BaseUtcOffset              : 09:00:00
 SupportsDaylightSavingTime : False
 
 Id                         : North Korea Standard Time
-DisplayName                : (UTC+09:00) Pjîngjang
+DisplayName                : (UTC+09:00) Pj√∂ngjang
 StandardName               : Nordkoreanische Normalzeit
 DaylightName               : Nordkoreanische Sommerzeit
 BaseUtcOffset              : 09:00:00
