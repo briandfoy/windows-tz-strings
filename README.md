@@ -16,20 +16,27 @@ In a POSIX system or something using the Olson locations, figuring out the timez
 Windows is not so easy (or I couldn't find the easy way to do this) because they don't deal with those abbreviations (or the Olson locations).
 
 The strings I need to map depend on the language pack. I've done a few
-languages, but some we leave the Latin alphabet, I have problems.
+languages, but some we leave the Latin alphabet, I have problems with the keyboard and typing out characters to run a command
 
 ## Adding to the project
 
 The best thing to send me is the output of this PowerShell cmdlet:
 
-	PS C:\> Get-TimeZone -ListAvailable
+	PS C:\Users\brian d foy> Get-TimeZone -ListAvailable > lang-COUNTRY.txt
 
-I'll take data any way that you want to transmit it. Email (brian.d.foy@gmail.com), [pastebin](https://pastebin.com),
-[gist](https://gist.github.com), or, preferably, a [pull request](https://github.com/briandfoy/windows-tz-strings/pulls).
+If you'd like to send a pull request (and get some internet points), fork the repo, clone it, and add your data:
 
-For a pull request, make a new file with a name that represents your
-language pack. Leave a few comments to explain anything I may need to
-now.
+    PS C:\Users\brian d foy> git clone git://github.com/YOUR_GITHUB_NAME/windows-tz-strings
+    PS C:\Users\brian d foy> cd windows-tz-strings/outputs
+	PS C:\Users\brian d foy> Get-TimeZone -ListAvailable > lang-COUNTRY.txt
+	PS C:\Users\brian d foy> git add lang-COUNTRY.txt
+	PS C:\Users\brian d foy> git commit -m "Get-TimeZone for lang-COUNTRY" lang-COUNTRY.txt
+	PS C:\Users\brian d foy> git push origin master
+
+Then go to your fork and make the pull request.
+
+If that's too much work, I'll take data any way that you want to transmit it. Email (brian.d.foy@gmail.com), [pastebin](https://pastebin.com),
+[gist](https://gist.github.com), or whatever.
 
 ## Next steps
 
