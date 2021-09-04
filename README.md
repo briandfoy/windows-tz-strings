@@ -13,7 +13,7 @@ In a POSIX system or something using the Olson locations, figuring out the timez
 	$ perl -MPOSIX -le 'print strftime "%z", localtime'
 	-0400
 
-Windows is not so easy (or I couldn't find the easy way to do this) because they don't deal with those abbreviations (or the Olson locations).
+Windows is not so easy (or I couldn't find the easy way to do this) because they don't deal with those abbreviations (or the Olson locations). Consider the many StackOverflow answers in [Display current time with time zone in PowerShell](https://stackoverflow.com/q/11035905/2766176).
 
 The strings I need to map depend on the language pack. I've done a few
 languages, but some we leave the Latin alphabet, I have problems with the keyboard and typing out characters to run a command
@@ -30,8 +30,9 @@ The best thing to send me is the output of this PowerShell cmdlet:
 
     PS C:\Users\brian d foy> Get-TimeZone -ListAvailable > lang-COUNTRY.txt
 
-If you'd like to send a pull request (and get some internet points), fork the repo, clone it, and add your data:
+If you'd like to send a pull request (and get some internet points), fork the repo, clone it, and add your data. Be sure to use the UTF-8 code page (65001):
 
+    PS C:\Users\brian d foy> chcp 65001
     PS C:\Users\brian d foy> git clone git://github.com/YOUR_GITHUB_NAME/windows-tz-strings
     PS C:\Users\brian d foy> cd windows-tz-strings/outputs
     PS C:\Users\brian d foy> Get-TimeZone -ListAvailable > lang-COUNTRY.txt
@@ -47,3 +48,10 @@ If that's too much work, I'll take data any way that you want to transmit it. Em
 ## Next steps
 
 Eventually I will collate all of this information into some sort of language-agnostic data file that anything can consume. I haven't thought that far yet.
+
+## Other notes
+
+Extracting the Timezone ID, which I think is invariant across language packs:
+
+	PS> Get-TimeZone | Select-Object -expandproperty Id
+
