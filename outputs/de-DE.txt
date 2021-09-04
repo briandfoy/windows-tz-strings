@@ -1,0 +1,992 @@
+
+
+Id                         : Dateline Standard Time
+DisplayName                : (UTC-12:00) Internationale Datumsgrenze (Westen)
+StandardName               : Datumsgrenze Normalzeit
+DaylightName               : Datumsgrenze Sommerzeit
+BaseUtcOffset              : -12:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : UTC-11
+DisplayName                : (UTC-11:00) Koordinierte Weltzeit-11
+StandardName               : UTC-11
+DaylightName               : UTC-11
+BaseUtcOffset              : -11:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Aleutian Standard Time
+DisplayName                : (UTC-10:00) Aleuten-Inseln
+StandardName               : Aleuten Normalzeit
+DaylightName               : Aleuten Sommerzeit
+BaseUtcOffset              : -10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Hawaiian Standard Time
+DisplayName                : (UTC-10:00) Hawaii
+StandardName               : Hawaii Normalzeit
+DaylightName               : Hawaii Sommerzeit
+BaseUtcOffset              : -10:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Marquesas Standard Time
+DisplayName                : (UTC-09:30) Marquesas-Inseln
+StandardName               : Marquesas Normalzeit
+DaylightName               : Marquesas Sommerzeit
+BaseUtcOffset              : -09:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : Alaskan Standard Time
+DisplayName                : (UTC-09:00) Alaska
+StandardName               : Alaska Normalzeit
+DaylightName               : Alaska Sommerzeit
+BaseUtcOffset              : -09:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : UTC-09
+DisplayName                : (UTC-09:00) Koordinierte Weltzeit-09
+StandardName               : UTC-09
+DaylightName               : UTC-09
+BaseUtcOffset              : -09:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : UTC-08
+DisplayName                : (UTC-08:00) Koordinierte Weltzeit-08
+StandardName               : UTC-08
+DaylightName               : UTC-08
+BaseUtcOffset              : -08:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Pacific Standard Time (Mexico)
+DisplayName                : (UTC-08:00) Niederkalifornien
+StandardName               : Pacific Normalzeit (Mexiko)
+DaylightName               : Pacific Sommerzeit (Mexiko)
+BaseUtcOffset              : -08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Pacific Standard Time
+DisplayName                : (UTC-08:00) Pacific Zeit (USA & Kanada)
+StandardName               : Pacific Normalzeit
+DaylightName               : Pacific Sommerzeit
+BaseUtcOffset              : -08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : US Mountain Standard Time
+DisplayName                : (UTC-07:00) Arizona
+StandardName               : Mountain Normalzeit (Arizona)
+DaylightName               : Mountain Sommerzeit (Arizona)
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Mountain Standard Time (Mexico)
+DisplayName                : (UTC-07:00) Chihuahua, La Paz, Mazatlan
+StandardName               : Mountain Normalzeit (Mexiko)
+DaylightName               : Mountain Sommerzeit (Mexiko)
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Mountain Standard Time
+DisplayName                : (UTC-07:00) Mountain Zeit (USA & Kanada)
+StandardName               : Mountain Normalzeit
+DaylightName               : Mountain Sommerzeit
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Yukon Standard Time
+DisplayName                : (UTC-07:00) Yukon
+StandardName               : Yukon Normalzeit
+DaylightName               : Yukon Sommerzeit
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central Standard Time
+DisplayName                : (UTC-06:00) Central Zeit (USA & Kanada)
+StandardName               : Central Normalzeit
+DaylightName               : Central Sommerzeit
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central Standard Time (Mexico)
+DisplayName                : (UTC-06:00) Guadalajara, Mexiko-Stadt, Monterrey
+StandardName               : Central Normalzeit (Mexiko)
+DaylightName               : Central Sommerzeit (Mexiko)
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central America Standard Time
+DisplayName                : (UTC-06:00) Mittelamerika
+StandardName               : Mittelamerikanische Normalzeit
+DaylightName               : Mittelamerikanische Sommerzeit
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Easter Island Standard Time
+DisplayName                : (UTC-06:00) Osterinsel
+StandardName               : Osterinsel Normalzeit
+DaylightName               : Osterinsel Sommerzeit
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Canada Central Standard Time
+DisplayName                : (UTC-06:00) Saskatchewan
+StandardName               : Central Normalzeit (Kanada)
+DaylightName               : Central Sommerzeit (Kanada)
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : SA Pacific Standard Time
+DisplayName                : (UTC-05:00) Bogot†, Lima, Quito, Rio Branco
+StandardName               : Westl. SÅdamerika Normalzeit
+DaylightName               : Westl. SÅdamerika Sommerzeit
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Eastern Standard Time (Mexico)
+DisplayName                : (UTC-05:00) Chetumal
+StandardName               : Eastern Normalzeit (Mexiko)
+DaylightName               : Eastern Sommerzeit (Mexiko)
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Eastern Standard Time
+DisplayName                : (UTC-05:00) Eastern Zeit (USA & Kanada)
+StandardName               : Eastern Normalzeit
+DaylightName               : Eastern Sommerzeit
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Haiti Standard Time
+DisplayName                : (UTC-05:00) Haiti
+StandardName               : Haiti Normalzeit
+DaylightName               : Haiti Sommerzeit
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Cuba Standard Time
+DisplayName                : (UTC-05:00) Havanna
+StandardName               : Kuba Normalzeit
+DaylightName               : Kuba Sommerzeit
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : US Eastern Standard Time
+DisplayName                : (UTC-05:00) Indiana (Ost)
+StandardName               : Eastern Normalzeit (Indiana)
+DaylightName               : Eastern Sommerzeit (Indiana)
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Turks And Caicos Standard Time
+DisplayName                : (UTC-05:00) Turks- und Caicosinseln
+StandardName               : Turks- u. Caicosinseln Normalz.
+DaylightName               : Turks- u. Caicosinseln Sommerz.
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Paraguay Standard Time
+DisplayName                : (UTC-04:00) Asuncion
+StandardName               : Paraguay Normalzeit
+DaylightName               : Paraguay Sommerzeit
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Atlantic Standard Time
+DisplayName                : (UTC-04:00) Atlantic (Kanada)
+StandardName               : Atlantic Normalzeit
+DaylightName               : Atlantic Sommerzeit
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Venezuela Standard Time
+DisplayName                : (UTC-04:00) Caracas
+StandardName               : Venezuela Normalzeit
+DaylightName               : Venezuela Sommerzeit
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central Brazilian Standard Time
+DisplayName                : (UTC-04:00) Cuiaba
+StandardName               : Zentalbrasilianische Normalzeit
+DaylightName               : Zentalbrasilianische Sommerzeit
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : SA Western Standard Time
+DisplayName                : (UTC-04:00) Georgetown, La Paz, Manaus, San Juan
+StandardName               : Mittl. SÅdamerika Normalzeit
+DaylightName               : Mittl. SÅdamerika Sommerzeit
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Pacific SA Standard Time
+DisplayName                : (UTC-04:00) Santiago
+StandardName               : Chilenische Normalzeit
+DaylightName               : Chilenische Sommerzeit
+BaseUtcOffset              : -04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Newfoundland Standard Time
+DisplayName                : (UTC-03:30) Neufundland
+StandardName               : Neufundland Normalzeit
+DaylightName               : Neufundland Sommerzeit
+BaseUtcOffset              : -03:30:00
+SupportsDaylightSavingTime : True
+
+Id                         : Tocantins Standard Time
+DisplayName                : (UTC-03:00) Aragua°na
+StandardName               : Tocantins Normalzeit
+DaylightName               : Tocantins Sommerzeit
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : E. South America Standard Time
+DisplayName                : (UTC-03:00) Brasilia
+StandardName               : ôstl. SÅdamerika Normalzeit
+DaylightName               : ôstl. SÅdamerika Sommerzeit
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Argentina Standard Time
+DisplayName                : (UTC-03:00) Buenos Aires
+StandardName               : Argentinien Normalzeit
+DaylightName               : Argentinien Sommerzeit
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : SA Eastern Standard Time
+DisplayName                : (UTC-03:00) Cayenne, Fortaleza
+StandardName               : ôstl. SÅdamerika Normalzeit  
+DaylightName               : ôstl. SÅdamerika Sommerzeit 
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Greenland Standard Time
+DisplayName                : (UTC-03:00) Grînland
+StandardName               : Grînland Normalzeit
+DaylightName               : Grînland Sommerzeit
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Montevideo Standard Time
+DisplayName                : (UTC-03:00) Montevideo
+StandardName               : Montevideo Normalzeit
+DaylightName               : Montevideo Sommerzeit
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Magallanes Standard Time
+DisplayName                : (UTC-03:00) Punta Arenas
+StandardName               : Magallanes Normalzeit
+DaylightName               : Magallanes Sommerzeit
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Bahia Standard Time
+DisplayName                : (UTC-03:00) Salvador
+StandardName               : Bahia Normalzeit
+DaylightName               : Bahia Sommerzeit
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Saint Pierre Standard Time
+DisplayName                : (UTC-03:00) St. Pierre und Miquelon
+StandardName               : Saint-Pierre Normalzeit
+DaylightName               : Saint-Pierre Sommerzeit
+BaseUtcOffset              : -03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : UTC-02
+DisplayName                : (UTC-02:00) Koordinierte Weltzeit-02
+StandardName               : UTC-02
+DaylightName               : UTC-02
+BaseUtcOffset              : -02:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Mid-Atlantic Standard Time
+DisplayName                : (UTC-02:00) Mittelatlantik - Alt
+StandardName               : Mittelatlantik Normalzeit
+DaylightName               : Mittelatlantik Sommerzeit
+BaseUtcOffset              : -02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Azores Standard Time
+DisplayName                : (UTC-01:00) Azoren
+StandardName               : Azoren Normalzeit
+DaylightName               : Azoren Sommerzeit
+BaseUtcOffset              : -01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Cape Verde Standard Time
+DisplayName                : (UTC-01:00) Cabo Verde
+StandardName               : Cabo Verde Normalzeit
+DaylightName               : Cabo Verde Sommerzeit
+BaseUtcOffset              : -01:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : UTC
+DisplayName                : (UTC) Koordinierte Weltzeit
+StandardName               : Koordinierte Weltzeit
+DaylightName               : Koordinierte Weltzeit 
+BaseUtcOffset              : 00:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : GMT Standard Time
+DisplayName                : (UTC+00:00) Dublin, Edinburgh, Lissabon, London
+StandardName               : WesteuropÑische Zeit
+DaylightName               : WesteuropÑische Sommerzeit
+BaseUtcOffset              : 00:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Greenwich Standard Time
+DisplayName                : (UTC+00:00) Monrovia, Reykjavik
+StandardName               : Westafrikanische Normalzeit
+DaylightName               : Westafrikanische Sommerzeit
+BaseUtcOffset              : 00:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Sao Tome Standard Time
+DisplayName                : (UTC+00:00) Sao TomÇ
+StandardName               : Sao Tome Normalzeit
+DaylightName               : Sao Tome Sommerzeit
+BaseUtcOffset              : 00:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Morocco Standard Time
+DisplayName                : (UTC+01:00) Casablanca
+StandardName               : Marokko Normalzeit
+DaylightName               : Marokko Sommerzeit
+BaseUtcOffset              : 00:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : W. Europe Standard Time
+DisplayName                : (UTC+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien
+StandardName               : MitteleuropÑische Zeit
+DaylightName               : MitteleuropÑische Sommerzeit
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central Europe Standard Time
+DisplayName                : (UTC+01:00) Belgrad, Bratislava (Pressburg), Budapest, 
+                             Ljubljana, Prag
+StandardName               : MitteleuropÑische Zeit 
+DaylightName               : MitteleuropÑische Sommerzeit 
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Romance Standard Time
+DisplayName                : (UTC+01:00) BrÅssel, Kopenhagen, Madrid, Paris
+StandardName               : MitteleuropÑische Zeit    
+DaylightName               : MitteleuropÑische Sommerzeit   
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central European Standard Time
+DisplayName                : (UTC+01:00) Sarajevo, Skopje, Warschau, Zagreb
+StandardName               : MitteleuropÑische Zeit  
+DaylightName               : MitteleuropÑische Sommerzeit  
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : W. Central Africa Standard Time
+DisplayName                : (UTC+01:00) West-Zentralafrika
+StandardName               : West-Zentralafrika Normalzeit
+DaylightName               : West-Zentralafrika Sommerzeit
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Jordan Standard Time
+DisplayName                : (UTC+02:00) Amman
+StandardName               : Jordanien Normalzeit
+DaylightName               : Jordanien Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : GTB Standard Time
+DisplayName                : (UTC+02:00) Athen, Bukarest
+StandardName               : OsteuropÑische Zeit
+DaylightName               : OsteuropÑische Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Middle East Standard Time
+DisplayName                : (UTC+02:00) Beirut
+StandardName               : Mittlerer Osten Normalzeit
+DaylightName               : Mittlerer Osten Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : E. Europe Standard Time
+DisplayName                : (UTC+02:00) Chisinau
+StandardName               : OsteuropÑische Zeit 
+DaylightName               : OsteuropÑische Sommerzeit 
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Syria Standard Time
+DisplayName                : (UTC+02:00) Damaskus
+StandardName               : Syrien Normalzeit
+DaylightName               : Syrien Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : West Bank Standard Time
+DisplayName                : (UTC+02:00) Gaza, Hebron
+StandardName               : Westjordanland Gaza Normalzeit
+DaylightName               : Westjordanland Gaza Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : South Africa Standard Time
+DisplayName                : (UTC+02:00) Harare, Pretoria
+StandardName               : SÅdafrika Normalzeit
+DaylightName               : SÅdafrika Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : FLE Standard Time
+DisplayName                : (UTC+02:00) Helsinki, Kiew, Riga, Sofia, Tallinn, Wilna
+StandardName               : OsteuropÑische Zeit  
+DaylightName               : OsteuropÑische Sommerzeit  
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Israel Standard Time
+DisplayName                : (UTC+02:00) Jerusalem
+StandardName               : Jerusalem Normalzeit
+DaylightName               : Jerusalem Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : South Sudan Standard Time
+DisplayName                : (UTC+02:00) Juba
+StandardName               : SÅdsudan Normalzeit
+DaylightName               : SÅdsudan Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Egypt Standard Time
+DisplayName                : (UTC+02:00) Kairo
+StandardName               : égypten Normalzeit
+DaylightName               : égypten Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Kaliningrad Standard Time
+DisplayName                : (UTC+02:00) Kaliningrad
+StandardName               : RTZ 1 Normalzeit
+DaylightName               : RTZ 1 Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Sudan Standard Time
+DisplayName                : (UTC+02:00) Khartum
+StandardName               : Sudan Normalzeit
+DaylightName               : Sudan Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Libya Standard Time
+DisplayName                : (UTC+02:00) Tripolis
+StandardName               : Libyen Normalzeit
+DaylightName               : Libyen Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Namibia Standard Time
+DisplayName                : (UTC+02:00) Windhuk
+StandardName               : Namibia Normalzeit
+DaylightName               : Namibia Sommerzeit
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Arabic Standard Time
+DisplayName                : (UTC+03:00) Bagdad
+StandardName               : Arabische Normalzeit 
+DaylightName               : Arabische Sommerzeit 
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Turkey Standard Time
+DisplayName                : (UTC+03:00) Istanbul
+StandardName               : TÅrkei Normalzeit
+DaylightName               : TÅrkei Sommerzeit
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Arab Standard Time
+DisplayName                : (UTC+03:00) Kuwait, Riad
+StandardName               : Arabische Normalzeit
+DaylightName               : Arabische Sommerzeit
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Belarus Standard Time
+DisplayName                : (UTC+03:00) Minsk
+StandardName               : Belarus Normalzeit
+DaylightName               : Belarus Sommerzeit
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Russian Standard Time
+DisplayName                : (UTC+03:00) Moskau, St. Petersburg
+StandardName               : RTZ 2 Normalzeit
+DaylightName               : RTZ 2 Sommerzeit
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : E. Africa Standard Time
+DisplayName                : (UTC+03:00) Nairobi
+StandardName               : Ostafrikanische Normalzeit
+DaylightName               : Ostafrikanische Sommerzeit
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Iran Standard Time
+DisplayName                : (UTC+03:30) Teheran
+StandardName               : Iran Normalzeit
+DaylightName               : Iran Sommerzeit
+BaseUtcOffset              : 03:30:00
+SupportsDaylightSavingTime : True
+
+Id                         : Arabian Standard Time
+DisplayName                : (UTC+04:00) Abu Dhabi, Muskat
+StandardName               : Arabische Normalzeit  
+DaylightName               : Arabische Sommerzeit  
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Astrakhan Standard Time
+DisplayName                : (UTC+04:00) Astrachan, Uljanowsk
+StandardName               : Astrachan Normalzeit
+DaylightName               : Astrachan Sommerzeit
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Azerbaijan Standard Time
+DisplayName                : (UTC+04:00) Baku
+StandardName               : Aserbaidschan Normalzeit
+DaylightName               : Aserbaidschan Sommerzeit
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Caucasus Standard Time
+DisplayName                : (UTC+04:00) Eriwan
+StandardName               : Kaukasische Normalzeit
+DaylightName               : Kaukasische Sommerzeit
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Russia Time Zone 3
+DisplayName                : (UTC+04:00) Ischewsk, Samara
+StandardName               : RTZ 3 Normalzeit
+DaylightName               : RTZ 3 Sommerzeit
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Mauritius Standard Time
+DisplayName                : (UTC+04:00) Port Louis
+StandardName               : Mauritius Normalzeit
+DaylightName               : Mauritius Sommerzeit
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Saratov Standard Time
+DisplayName                : (UTC+04:00) Saratov
+StandardName               : Saratov Normalzeit
+DaylightName               : Saratov Sommerzeit
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Georgian Standard Time
+DisplayName                : (UTC+04:00) Tiflis
+StandardName               : Georgische Normalzeit
+DaylightName               : Georgische Sommerzeit
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Volgograd Standard Time
+DisplayName                : (UTC+04:00) Wolgograd
+StandardName               : Wolgograd Normalzeit
+DaylightName               : Wolgograd Sommerzeit
+BaseUtcOffset              : 04:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Afghanistan Standard Time
+DisplayName                : (UTC+04:30) Kabul
+StandardName               : Afghanistan Normalzeit
+DaylightName               : Afghanistan Sommerzeit
+BaseUtcOffset              : 04:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : West Asia Standard Time
+DisplayName                : (UTC+05:00) Aschgabat, Taschkent
+StandardName               : West Asien Normalzeit
+DaylightName               : West Asien Sommerzeit
+BaseUtcOffset              : 05:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Pakistan Standard Time
+DisplayName                : (UTC+05:00) Islamabad, Karatschi
+StandardName               : Pakistan Normalzeit
+DaylightName               : Pakistan Sommerzeit
+BaseUtcOffset              : 05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Ekaterinburg Standard Time
+DisplayName                : (UTC+05:00) Jekaterinburg
+StandardName               : RTZ 4 Normalzeit
+DaylightName               : RTZ 4 Sommerzeit
+BaseUtcOffset              : 05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Qyzylorda Standard Time
+DisplayName                : (UTC+05:00) Qysylorda
+StandardName               : Qysylorda Normalzeit
+DaylightName               : Qysylorda Sommerzeit
+BaseUtcOffset              : 05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : India Standard Time
+DisplayName                : (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+StandardName               : Indien Normalzeit
+DaylightName               : Indien Sommerzeit
+BaseUtcOffset              : 05:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : Sri Lanka Standard Time
+DisplayName                : (UTC+05:30) Sri Jayawardenepura
+StandardName               : Sri Lanka Normalzeit
+DaylightName               : Sri Lanka Sommerzeit
+BaseUtcOffset              : 05:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : Nepal Standard Time
+DisplayName                : (UTC+05:45) Katmandu
+StandardName               : Nepal Normalzeit
+DaylightName               : Nepal Sommerzeit
+BaseUtcOffset              : 05:45:00
+SupportsDaylightSavingTime : False
+
+Id                         : Central Asia Standard Time
+DisplayName                : (UTC+06:00) Astana
+StandardName               : Zentralasien Normalzeit
+DaylightName               : Zentralasien Sommerzeit
+BaseUtcOffset              : 06:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Bangladesh Standard Time
+DisplayName                : (UTC+06:00) Dakka
+StandardName               : Bangladesch Normalzeit
+DaylightName               : Bangladesch Sommerzeit
+BaseUtcOffset              : 06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Omsk Standard Time
+DisplayName                : (UTC+06:00) Omsk
+StandardName               : Omsk Normalzeit
+DaylightName               : Omsk Sommerzeit
+BaseUtcOffset              : 06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Myanmar Standard Time
+DisplayName                : (UTC+06:30) Yangon (Rangun)
+StandardName               : Myanmar Normalzeit
+DaylightName               : Myanmar Sommerzeit
+BaseUtcOffset              : 06:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : SE Asia Standard Time
+DisplayName                : (UTC+07:00) Bangkok, Hanoi, Jakarta
+StandardName               : SÅdostasiatische Normalzeit
+DaylightName               : SÅdostasiatische Sommerzeit
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Altai Standard Time
+DisplayName                : (UTC+07:00) Barnaul, Gorno-Altaisk
+StandardName               : Altai Normalzeit
+DaylightName               : Altai Sommerzeit
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : W. Mongolia Standard Time
+DisplayName                : (UTC+07:00) Hovd
+StandardName               : W. Mongolei Normalzeit
+DaylightName               : W. Mongolei Sommerzeit
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : North Asia Standard Time
+DisplayName                : (UTC+07:00) Krasnojarsk
+StandardName               : RTZ 6 Normalzeit
+DaylightName               : RTZ 6 Sommerzeit
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : N. Central Asia Standard Time
+DisplayName                : (UTC+07:00) Nowosibirsk
+StandardName               : Nowosibirsk Normalzeit
+DaylightName               : Nowosibirsk Sommerzeit
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Tomsk Standard Time
+DisplayName                : (UTC+07:00) Tomsk
+StandardName               : Tomsk Normalzeit
+DaylightName               : Tomsk Sommerzeit
+BaseUtcOffset              : 07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : North Asia East Standard Time
+DisplayName                : (UTC+08:00) Irkutsk
+StandardName               : RTZ 7 Normalzeit
+DaylightName               : RTZ 7 Sommerzeit
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Singapore Standard Time
+DisplayName                : (UTC+08:00) Kuala Lumpur, Singapur
+StandardName               : Malaiische Halbinsel Normalzeit
+DaylightName               : Malaiische Halbinsel Sommerzeit
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : China Standard Time
+DisplayName                : (UTC+08:00) Peking, Chongqing, Hongkong (SAR), Urumchi
+StandardName               : China Normalzeit
+DaylightName               : China Sommerzeit
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : W. Australia Standard Time
+DisplayName                : (UTC+08:00) Perth
+StandardName               : Westaustralische Normalzeit
+DaylightName               : Westaustralische Sommerzeit
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Taipei Standard Time
+DisplayName                : (UTC+08:00) Taipeh
+StandardName               : Taipeh Normalzeit
+DaylightName               : Taipeh Sommerzeit
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Ulaanbaatar Standard Time
+DisplayName                : (UTC+08:00) Ulan-Bator
+StandardName               : Ulan-Bator Normalzeit
+DaylightName               : Ulan-Bator Sommerzeit
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Aus Central W. Standard Time
+DisplayName                : (UTC+08:45) Eucla
+StandardName               : Zentralaustralische Normalzeit
+DaylightName               : Zentralaustralische Sommerzeit
+BaseUtcOffset              : 08:45:00
+SupportsDaylightSavingTime : False
+
+Id                         : Transbaikal Standard Time
+DisplayName                : (UTC+09:00) Chita
+StandardName               : Transbaikal Normalzeit
+DaylightName               : Transbaikal Sommerzeit
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Yakutsk Standard Time
+DisplayName                : (UTC+09:00) Jakutsk
+StandardName               : RTZ 8 Normalzeit
+DaylightName               : RTZ 8 Sommerzeit
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Tokyo Standard Time
+DisplayName                : (UTC+09:00) Osaka, Sapporo, Tokio
+StandardName               : Japanische Normalzeit
+DaylightName               : Japanische Sommerzeit
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : North Korea Standard Time
+DisplayName                : (UTC+09:00) Pjîngjang
+StandardName               : Nordkoreanische Normalzeit
+DaylightName               : Nordkoreanische Sommerzeit
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Korea Standard Time
+DisplayName                : (UTC+09:00) Seoul
+StandardName               : Koreanische Normalzeit
+DaylightName               : Koreanische Sommerzeit
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Cen. Australia Standard Time
+DisplayName                : (UTC+09:30) Adelaide
+StandardName               : Zentralaustralische Normalzeit 
+DaylightName               : Zentralaustralische Sommerzeit 
+BaseUtcOffset              : 09:30:00
+SupportsDaylightSavingTime : True
+
+Id                         : AUS Central Standard Time
+DisplayName                : (UTC+09:30) Darwin
+StandardName               : Zentralaustralische Normalzeit
+DaylightName               : Zentralaustralische Sommerzeit
+BaseUtcOffset              : 09:30:00
+SupportsDaylightSavingTime : False
+
+Id                         : E. Australia Standard Time
+DisplayName                : (UTC+10:00) Brisbane
+StandardName               : Ostaustralische Normalzeit 
+DaylightName               : Ostaustralische Sommerzeit 
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : AUS Eastern Standard Time
+DisplayName                : (UTC+10:00) Canberra, Melbourne, Sydney
+StandardName               : Ostaustralische Normalzeit
+DaylightName               : Ostaustralische Sommerzeit
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : West Pacific Standard Time
+DisplayName                : (UTC+10:00) Guam, Port Moresby
+StandardName               : Westpazifische Normalzeit
+DaylightName               : Westpazifische Sommerzeit
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Tasmania Standard Time
+DisplayName                : (UTC+10:00) Hobart
+StandardName               : Tasmanien Normalzeit
+DaylightName               : Tasmanien Sommerzeit
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Vladivostok Standard Time
+DisplayName                : (UTC+10:00) Wladiwostok
+StandardName               : RTZ 9 Normalzeit
+DaylightName               : RTZ 9 Sommerzeit
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Lord Howe Standard Time
+DisplayName                : (UTC+10:30) Lord-Howe-Insel
+StandardName               : Lord-Howe Normalzeit
+DaylightName               : Lord-Howe Sommerzeit
+BaseUtcOffset              : 10:30:00
+SupportsDaylightSavingTime : True
+
+Id                         : Bougainville Standard Time
+DisplayName                : (UTC+11:00) Bougainville-Insel
+StandardName               : Bougainville Normalzeit
+DaylightName               : Bougainville Sommerzeit
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Magadan Standard Time
+DisplayName                : (UTC+11:00) Magadan
+StandardName               : Magadan Normalzeit
+DaylightName               : Magadan Sommerzeit
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Norfolk Standard Time
+DisplayName                : (UTC+11:00) Norfolkinsel
+StandardName               : Norfolk Normalzeit
+DaylightName               : Norfolk Sommerzeit
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Sakhalin Standard Time
+DisplayName                : (UTC+11:00) Sachalin
+StandardName               : Sachalin Normalzeit
+DaylightName               : Sachalin Sommerzeit
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Central Pacific Standard Time
+DisplayName                : (UTC+11:00) Salomonen, Neu-Kaledonien
+StandardName               : Zentralpazifische Normalzeit
+DaylightName               : Zentralpazifische Sommerzeit
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Russia Time Zone 10
+DisplayName                : (UTC+11:00) Tschokurdach
+StandardName               : RTZ 10 Normalzeit
+DaylightName               : RTZ 10 Sommerzeit
+BaseUtcOffset              : 11:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Russia Time Zone 11
+DisplayName                : (UTC+12:00) Anadyr, Petropawlowsk-Kamtschatski
+StandardName               : RTZ 11 Normalzeit
+DaylightName               : RTZ 11 Sommerzeit
+BaseUtcOffset              : 12:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : New Zealand Standard Time
+DisplayName                : (UTC+12:00) Auckland, Wellington
+StandardName               : Neuseeland Normalzeit
+DaylightName               : Neuseeland Sommerzeit
+BaseUtcOffset              : 12:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Fiji Standard Time
+DisplayName                : (UTC+12:00) Fidschi
+StandardName               : Fidschi Normalzeit
+DaylightName               : Fidschi Sommerzeit
+BaseUtcOffset              : 12:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : UTC+12
+DisplayName                : (UTC+12:00) Koordinierte Weltzeit+12
+StandardName               : UTC+12
+DaylightName               : UTC+12
+BaseUtcOffset              : 12:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Kamchatka Standard Time
+DisplayName                : (UTC+12:00) Petropawlowsk-Kamtschatski - veraltet
+StandardName               : Kamtschatka Normalzeit
+DaylightName               : Kamtschatka Sommerzeit
+BaseUtcOffset              : 12:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Chatham Islands Standard Time
+DisplayName                : (UTC+12:45) Chatham-Inseln
+StandardName               : Chatham-Inseln Normalzeit
+DaylightName               : Chatham-Inseln Sommerzeit
+BaseUtcOffset              : 12:45:00
+SupportsDaylightSavingTime : True
+
+Id                         : UTC+13
+DisplayName                : (UTC+13:00) Koordinierte Weltzeit+13
+StandardName               : UTC+13
+DaylightName               : UTC+13
+BaseUtcOffset              : 13:00:00
+SupportsDaylightSavingTime : False
+
+Id                         : Tonga Standard Time
+DisplayName                : (UTC+13:00) Nuku'alofa
+StandardName               : Tonga Normalzeit
+DaylightName               : Tonga Sommerzeit
+BaseUtcOffset              : 13:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Samoa Standard Time
+DisplayName                : (UTC+13:00) Samoa
+StandardName               : Samoa Normalzeit
+DaylightName               : Samoa Sommerzeit
+BaseUtcOffset              : 13:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Line Islands Standard Time
+DisplayName                : (UTC+14:00) Insel Kiritimati
+StandardName               : Linieninseln Normalzeit
+DaylightName               : Linieninseln Sommerzeit
+BaseUtcOffset              : 14:00:00
+SupportsDaylightSavingTime : False
+
+
+
