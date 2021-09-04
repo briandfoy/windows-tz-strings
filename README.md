@@ -18,20 +18,26 @@ Windows is not so easy (or I couldn't find the easy way to do this) because they
 The strings I need to map depend on the language pack. I've done a few
 languages, but some we leave the Latin alphabet, I have problems with the keyboard and typing out characters to run a command
 
+But, Windows does have IDs for each of the time zones, which appear to be invariant across language packs:
+
+	PS C:\Users\brian d foy> Get-TimeZone | Select-Object -expandproperty Id
+
+That might be enough to map everything, but I'm curious if not only are those IDs the same, but if different language packs have additional IDs. I imagine there are some political problems with recognizing certain timezones.
+
 ## Adding to the project
 
 The best thing to send me is the output of this PowerShell cmdlet:
 
-	PS C:\Users\brian d foy> Get-TimeZone -ListAvailable > lang-COUNTRY.txt
+    PS C:\Users\brian d foy> Get-TimeZone -ListAvailable > lang-COUNTRY.txt
 
 If you'd like to send a pull request (and get some internet points), fork the repo, clone it, and add your data:
 
     PS C:\Users\brian d foy> git clone git://github.com/YOUR_GITHUB_NAME/windows-tz-strings
     PS C:\Users\brian d foy> cd windows-tz-strings/outputs
-	PS C:\Users\brian d foy> Get-TimeZone -ListAvailable > lang-COUNTRY.txt
-	PS C:\Users\brian d foy> git add lang-COUNTRY.txt
-	PS C:\Users\brian d foy> git commit -m "Get-TimeZone for lang-COUNTRY" lang-COUNTRY.txt
-	PS C:\Users\brian d foy> git push origin master
+    PS C:\Users\brian d foy> Get-TimeZone -ListAvailable > lang-COUNTRY.txt
+    PS C:\Users\brian d foy> git add lang-COUNTRY.txt
+    PS C:\Users\brian d foy> git commit -m "Get-TimeZone for lang-COUNTRY" lang-COUNTRY.txt
+    PS C:\Users\brian d foy> git push origin master
 
 Then go to your fork and make the pull request.
 
@@ -41,6 +47,3 @@ If that's too much work, I'll take data any way that you want to transmit it. Em
 ## Next steps
 
 Eventually I will collate all of this information into some sort of language-agnostic data file that anything can consume. I haven't thought that far yet.
-
-
-
