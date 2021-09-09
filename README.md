@@ -26,7 +26,7 @@ That might be enough to map everything, but I'm curious if not only are those ID
 
 ## Adding to the project
 
-The best thing to send me is the output of this PowerShell cmdlet:
+The best thing to send me is the output of this PowerShell cmdlet, substituting the right values for `lang` and `COUNTRY`:
 
     PS C:\Users\brian d foy> Get-TimeZone -ListAvailable > lang-COUNTRY.txt
 
